@@ -4,7 +4,7 @@ end
 
 say_hello ("Gabriella")
 
-def say_hello (name = "Ruby Programmer")
+def say_hello (name = "Ruby Programming")
   puts "Hello #{name}!"
 end
 
